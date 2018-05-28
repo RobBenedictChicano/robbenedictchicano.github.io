@@ -104,7 +104,7 @@ a:hover {
 }
 
 #card1 {
-  background: linear-gradient(rgba(0, 116, 217, .75), rgba(222, 68, 21, .85)), url(//lh3.googleusercontent.com/1tvHsxbt-h8jwAPiRoBOsgieJxsDj39A7lkr8ll3bStJYoXp5feuF1zAhifNp7lkRbpnGgq4vuvqZfNhnIYGO2wgqyzsTj3Hq-GndOkDsFadqfwIctDC4VhlTchO4h1khfbGQeLNDrs=w500) center/cover;
+  background: linear-gradient(rgba(0, 116, 217, .75), rgba(222, 68, 21, .85)), url(//lh3.googleusercontent.com/LRI8kImqHZxQZxTiVzFcgNYe3t95VCNiwG-svY1wJVUs_JRH2MjmdBt8DsJvLYTMSQ9kD5Zx1go21NNQpTwmymt8zTeYJ-N-LbRSAVEpGrOWvnHn7QF26oqrPo7RwPPu_4D9CXU588I=w500) center/cover;
   transform: translateZ(-1px) scale(2);
   z-index: -1;
 }
